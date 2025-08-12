@@ -1,4 +1,4 @@
-# codtech-internship-task1-joins-practice
+## codtech-internship-task1-joins-practice
 ## INTRODUCTION:
 This document contains SQL JOIN queries executed as part of Internship Task-1 from CODTECH.The objectives is to perform INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL JOIN to combine data meaningfully using two sample tables.
 ## SAMPLE TABLES:
