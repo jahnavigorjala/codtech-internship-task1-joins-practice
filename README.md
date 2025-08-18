@@ -76,6 +76,7 @@ SELECT e.Employee_id,e.Employee_name,d.Department_name,d.Location FROM Employees
  Insert into Employees values(101,'Ram',100),(102,'Sita',200),(103,'Lakshman',300);
  
  Insert into Departments values(100,'HR','Delhi'),(200,'IT','Banglore'),(320,'Finance','Hyderabad');
+ 
 
 
 
