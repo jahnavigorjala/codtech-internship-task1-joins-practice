@@ -1,4 +1,13 @@
 ## 🗃️codtech-internship-task1-joins-practice
+
+👩‍🎓Prepared by:GORJALA JAHNAVI
+
+🏷️Internship Id CT04DZ839
+
+🏢Organization: CODTECH
+
+📆Date: August 2025
+
 ## 🎯OBJECTIVE:
 The main Objective of this task is to demonstrate the use of different types of SQL JOINS - INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN - to combine data from multiple tables.
 ## 🚀 TECHNOLOGIES USED:
